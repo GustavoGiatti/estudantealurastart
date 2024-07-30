@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é GUstavo Giatti
+Meu nome é Gustavo Giatti
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
