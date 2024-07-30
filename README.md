@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+
+Meu nome é GUstavo Giatti
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
